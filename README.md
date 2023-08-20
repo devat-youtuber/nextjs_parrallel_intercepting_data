@@ -2,14 +2,14 @@
 
 1. Setup Nextjs
   - npx create-next-app@latest ./
-  √ Would you like to use TypeScript with this project? ... No 
-  √ Would you like to use ESLint with this project? ... No 
-  √ Would you like to use Tailwind CSS with this project? ... No 
-  √ Would you like to use `src/` directory with this project? ... No 
+  √ Would you like to use TypeScript with this project? ... No   
+  √ Would you like to use ESLint with this project? ... No   
+  √ Would you like to use Tailwind CSS with this project? ... No    
+  √ Would you like to use `src/` directory with this project? ... No    
   √ Use App Router (recommended)? ... Yes
-  √ Would you like to customize the default import alias? ... No 
+  √ Would you like to customize the default import alias? ... No    
 
-  - next: "13.4.19" or Later
+  - next: "13.4.19" or Later   
 
 2. Nav & Home Page
 
